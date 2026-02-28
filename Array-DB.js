@@ -823,8 +823,8 @@ const Engines = [
 		Type: 2
 	},
 	{	id: 31,
-		Name: "Tibinna Refinery", 
-		Title: "Tibinna Refinery module",
+		Name: "Tibanna Refinery", 
+		Title: "Tibanna Refinery module",
 	 	InputResource1: 1,
 	 	InputVolume1: -9000,
 	 	InputResource2: 8,
@@ -2486,6 +2486,7 @@ const Engines = [
  //console.log(xabz);
  //Lookup array:
  const Lookup = {Type: Type, Style: Style, Tier: Tier, Race: Race, Storage: Storage, Size: Size, Jumps: Jumps};
+
 
 
 
